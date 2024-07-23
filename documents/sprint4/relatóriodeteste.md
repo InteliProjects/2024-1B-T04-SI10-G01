@@ -1,0 +1,13 @@
+O Relatório de Implementação do Teste A/B da Wizard On representa uma ferramenta indispensável para a documentação meticulosa de todo o processo de implementação das versões B de nossa plataforma. Este documento fornece uma visão exaustiva e detalhada das ações empreendidas e dos desafios enfrentados, abordando tanto os aspectos técnicos quanto operacionais envolvidos.
+
+
+O Wizard On emergiu como uma inovação notável no portfólio da Wizard durante a pandemia, com o objetivo de transcender as barreiras geográficas e oferecer uma experiência educacional de alta qualidade no ambiente virtual, mantendo o padrão das aulas presenciais. O teste A/B foi projetado para avaliar alterações na landing page, com o intuito de aumentar a taxa de conversão de usuários para leads em 7% e incrementar o volume de leads gerados no segundo trimestre em 15% em comparação com o primeiro trimestre.
+
+
+Dentro do escopo deste teste, as variáveis independentes englobam mudanças no design e na funcionalidade da landing page, comparando a Proposta A (versão atual) com a Proposta B (nova versão). As variáveis dependentes focam na taxa de conversão de usuário para lead e no volume de leads. O público-alvo compreende os visitantes da landing page, com o tamanho da amostra sendo determinado por simulações de Monte Carlo que consideram períodos sazonais. Uma estratégia de randomização aloca 30% dos visitantes à versão B, estabelecendo um período de teste de duas semanas.
+
+
+A implementação técnica emprega ferramentas integradas de teste A/B, facilitando a revisão contínua de códigos e designs. O teste está programado para iniciar em 5 de junho e terminar em 17 de junho. Durante esse período, o desempenho será monitorado continuamente por meio de ferramentas analíticas, e a análise dos dados será conduzida através de métodos estatísticos, como testes e análise de intervalos de confiança. A comparação dos desempenhos entre as versões A e B elucidará as melhorias alcançadas pelas modificações, com avaliações de significância estatística fundamentais para validar ou refutar as hipóteses propostas.
+
+
+Os resultados preliminares revelaram a eficácia das alterações implementadas na versão B, embasadas por uma análise estatística rigorosa. Recomenda-se a implementação da versão B, com sugestões para futuros testes e otimizações detalhadas. Este relatório não apenas direciona as iniciativas de implementação atuais mas também serve como uma ferramenta valiosa para futuras estratégias de otimização, proporcionando um recurso repleto de feedback detalhado, análises, documentação suplementar, e um plano de contingência abrangente para possíveis riscos e interrupções.
