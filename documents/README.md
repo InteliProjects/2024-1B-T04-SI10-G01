@@ -5,7 +5,7 @@
 ### Entendimento do Negócio
 
 - Arquivo `.md` referente à entrega: [Análise Preliminar](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/documents/sprint1/AnalisePreliminar.md).
-- Arquivo `.md` referente à entrega: [Matriz de riscos e Análise Pestel](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/documents/sprint1/MatrizDeRisco.md).
+- Arquivo `.md` referente à entrega: [Matriz de riscos e Análise Pestel](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/documents/sprint1/MatrizDeRisco_AnalisePestel.md).
 
 ### Entendimento da Experiência do Usuário
 
