@@ -2,9 +2,9 @@
 
 ## Persona
 
-As personas (Figura 1) são representações detalhadas, porém fictícias, dos clientes ideais que a solução busca atender, além de ocupar um papel crucial ao compreender e orientar projetos e soluções. A persona criada para o Wizard On é Ana Oliveira, que é uma analista de operações de 32 anos, residente em Curitiba, com formação em Administração de Empresas e um salário de R$ 5.000. Profissionalmente, ela possui habilidades de gestão de projetos e análise de dados e busca aprender inglês para avançar na carreira. Seu maior desafio é a falta de tempo para estudos presenciais devido ao trabalho exigente. E almeja alcançar um cargo de liderança nos próximos cinco anos.
+As personas (Figura 1) são representações detalhadas, porém fictícias, dos clientes ideais que a solução busca atender, além de ocupar um papel crucial ao compreender e orientar projetos e soluções. A persona criada para o Wizard On é Ana Oliveira, que é uma analista de operações de 32 anos, residente em Curitiba, com formação em Administração de Empresas e um salário de R$ 5.000. Profissionalmente, ela possui habilidades de gestão de projetos e análise de dados e busca aprender inglês para avançar na carreira. Seu maior desafio é a falta de tempo para estudos presenciais mainido ao trabalho exigente. E almeja alcançar um cargo de liderança nos próximos cinco anos.
 
-![Persona](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Persona.jpeg)
+![Persona](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Persona.jpeg)
 **Figura 1**. Persona do Wizard On. Fonte: Arquivo Pessoal.
 <br>
 
@@ -14,7 +14,7 @@ O blueprint de serviço é uma ferramenta usada para mapear e visualizar todos o
 
 **Link:** [Blueprint do Wizard On](https://miro.com/welcomeonboard/a0pYaVdMU1F0a1FJWkFtRWdJVWdhTmlIMVN4czlOYXppMW9FNlRYbnpuSXliQWFDaXY3OWlLaXVGRnpsMzI1U3wzNDU4NzY0NTg3MjI2NjAzOTgzfDI=?share_link_id=296309086048)
 
-![Blueprint](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Blueprint%20de%20Servi%C3%A7o.jpeg)
+![Blueprint](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Blueprint%20de%20Servi%C3%A7o.jpeg)
 **Figura 2**. Blueprint do Wizard On. Fonte: Arquivo Pessoal.
 <br>
 
@@ -41,12 +41,12 @@ Segue abaixo, a descrição da jornada do consumidor:
 
 A ferramenta abaixo (Figura 3), ajuda a definir objetivos específicos relacionados a experiência do usuário, identificar os comportamentos que sinalizam progresso em direção a esses objetivos e medir (Figura 4) o sucesso com dados concretos. Assegurando que as estratégias e recursos estão alinhados com os resultados desejados para o serviço.
 
-![GSM](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/GSM.jpeg)
+![GSM](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/GSM.jpeg)
 <br>
 **Figura 3**. GSM - Wizard On. Fonte: Arquivo Pessoal.
 <br>
 <br>
 
-![Métricas](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/M%C3%A9tricas.jpeg)
+![Métricas](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/M%C3%A9tricas.jpeg)
 <br>
 **Figura 4**. Métricas - Wizard On. Fonte: Arquivo Pessoal.
