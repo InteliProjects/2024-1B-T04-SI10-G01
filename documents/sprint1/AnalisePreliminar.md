@@ -144,7 +144,7 @@ Para atingir esses objetivos, precisamos acompanhar informações relevantes.
 
 A primeira tabela exibe duas colunas: “Event name” e “Event count”. No geral, temos 29.476.994 eventos na lading page, sendo elas a soma de todas as contagens de 21 eventos únicos.
 
-![Total de Eventos](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Total_Eventos.png) <br> 
+![Total de Eventos](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Total_Eventos.png) <br> 
 **Imagem 1:** Colunas total de eventos <br> 
 **Fonte:** Elaboração própria <br>
 <br>
@@ -161,7 +161,7 @@ Os eventos listados são:
 - “first_visit” com uma contagem de 1.402.714. Esse evento registra a primeira visita de um usuário à página. Entende-se, principalmente levando em consideração marketing digital e promoção do curso WizardOn, que a primeira impressão é crucial. Visitantes que retornam após a primeira visita podem estar mais interessados em realizar a matrícula ou entrar em contato com o time de Comercial.
 - “user_engagement” com uma contagem de 412.624. Esse evento mede o envolvimento do usuário com a página (por exemplo, cliques em botões, preenchimento dos formulários). Tal informação é de indubitável importância para a análise pois quanto maior o engajamento geralmente maiores são os números de conversões.
 
-![Eventos e Sessões](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Eventos_Sess%C3%B5es.png)
+![Eventos e Sessões](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Eventos_Sess%C3%B5es.png)
 <br> 
 **Imagem 2:** Listagem dos 5 principais eventos <br> 
 **Fonte:** Elaboração própria <br>
@@ -177,7 +177,7 @@ O evento “click” representa o número de vezes que os visitantes da página 
 
 A análise desse evento é crucial para entender o comportamento dos usuários na landing page. Cliques excessivos podem indicar dificuldades de navegação ou problemas de usabilidade. Por exemplo, se muitos visitantes clicam em um botão que não leva a uma ação desejada, pode ser necessário ajustar o design ou o texto do botão. É de indubitável importância avaliar quais elementos recebem mais cliques ajuda a identificar o que está funcionando bem. Além disso, o número de cliques em relação ao número total de visitantes pode afetar diretamente a taxa de conversão de leads. Quanto mais cliques relevantes, podem levar à mais inscrições.
 
-![Click](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Click.png)
+![Click](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Click.png)
 <br> 
 **Imagem 3:** Número de clicks feitos pelos visitantes <br> 
 **Fonte:** Elaboração própria <br>
@@ -188,7 +188,7 @@ A taxa de scroll mede o quanto os visitantes rolam a página para baixo. Isso po
 
 Se a taxa de scroll for alta, os visitantes estão explorando o conteúdo da página, o que pode levar a mais inscrições. Caso a taxa de scroll for baixa, os visitantes podem não estar encontrando informações relevantes ou se envolvendo com o conteúdo.
 
-![Dados de click e scroll](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Click_scroll.png)<br> 
+![Dados de click e scroll](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Click_scroll.png)<br> 
 **Imagem 4:** Dados de click e scroll <br> 
 **Fonte:** Elaboração própria <br>
 <br>
@@ -197,7 +197,7 @@ A tabela exibe as contagens de eventos para diferentes sistemas operacionais. Os
 
 Esses dados podem ser relevantes para entender o comportamento dos usuários em relação aos diferentes sistemas operacionais. Por exemplo, a alta contagem de eventos no iOS pode indicar uma base de usuários ativa nesse sistema. Desse modo ainda, é possível realizar testes com usuários de sistemas mobile, sendo maioria em utilização.
 
-![Sistema Operacional](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/SO_Eventos.png)
+![Sistema Operacional](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/SO_Eventos.png)
 <br> 
 **Imagem 5:** Diferentes sistemas operacionais <br> 
 **Fonte:** Elaboração própria <br>
@@ -206,20 +206,20 @@ Esses dados podem ser relevantes para entender o comportamento dos usuários em 
 
 Na tabela existem duas colunas: “Age” e “Sessions”. As cinco linhas representam diferentes categorias de idade: “desconhecido”, “18-24”, “25-34”, “35-44” e “45-54”. A categoria “desconhecido” tem o maior número de sessões, com 1.509.472. O grupo etário “18-24” possui 175.969 sessões, “25-34” tem 134.545, “35-44” tem 88.545 e “45-54” tem 55.278 sessões, respectivamente. Os dados da tabela podem ser úteis para entender o comportamento dos visitantes em relação à faixa etária.
 
-![Idade e Sessões](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Idade_Sess%C3%B5es.png)
+![Idade e Sessões](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Idade_Sess%C3%B5es.png)
 <br> 
 **Imagem 6:** Idade e sessões <br> 
 **Fonte:** Elaboração própria <br>
 <br>
 
 
-![Descrição estatítica](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/sess%C3%B5es_Quant.png)
+![Descrição estatítica](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/sess%C3%B5es_Quant.png)
 <br> 
 **Imagem 7:** Descrição estatística <br> 
 **Fonte:** Elaboração própria <br>
 <br>
 
-![Sessões por idade](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Sess%C3%A3o-Idade.png)
+![Sessões por idade](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Sess%C3%A3o-Idade.png)
 <br> 
 **Imagem 8:** Sessões por idade <br> 
 **Fonte:** Elaboração própria <br>
@@ -231,19 +231,19 @@ A tabela a seguir apresenta diferentes horas e o número de usuários ativos em 
 - Existe alguma correlação entre a hora do dia e a taxa de conversão de visitantes em leads?
 - Podemos otimizar a landing page com base nos horários de maior tráfego para melhorar a conversão?
 
-![Horário](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Hora_Usu%C3%A1rios.png)
+![Horário](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Hora_Usu%C3%A1rios.png)
 <br> 
 **Imagem 9:**  Diferentes horas e o número de usuários ativos em cada hora <br> 
 **Fonte:** Elaboração própria <br>
 <br>
 
-![Usuários por hora](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Usu%C3%A1rio-Hora.png)
+![Usuários por hora](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Usu%C3%A1rio-Hora.png)
 <br> 
 **Imagem 10:** Número de usuários por hora <br> 
 **Fonte:** Elaboração própria <br>
 <br>
 
-![Conversão por hora](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Convers%C3%A3o-Hora.png)
+![Conversão por hora](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Convers%C3%A3o-Hora.png)
 <br> 
 **Imagem 11:**  Histograma de correlação entre a hora do dia e a taxa de conversão de visitantes em leads <br> 
 **Fonte:** Elaboração própria <br>
@@ -251,12 +251,12 @@ A tabela a seguir apresenta diferentes horas e o número de usuários ativos em 
 
 A tabela exibe duas colunas: “Day of week” e “Active users”. Há sete linhas, cada uma representando um dia da semana, embora os dias sejam representados por números (de 1 a 7) ao  invés de nomes. A coluna “Usuários ativos” contém dados numéricos indicando o número de usuários ativos para cada dia correspondente. O Dia 3 tem o maior número de usuários ativos (254.715), enquanto o Dia 6 tem o menor (227.137).
 
-![Usuários por dias da semana](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Dias_Usu%C3%A1rios.png) <br> 
+![Usuários por dias da semana](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Dias_Usu%C3%A1rios.png) <br> 
 **Imagem 12:** Número de usuários por dias da semana <br> 
 **Fonte:** Elaboração própria <br>
 <br>
 
-![Visualização gráfica](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Usu%C3%A1rios-Dias.png)<br> 
+![Visualização gráfica](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Usu%C3%A1rios-Dias.png)<br> 
 **Imagem 13:** Visualização gráfica do número de usuários por dias da semana <br> 
 **Fonte:** Elaboração própria <br>
 <br>
