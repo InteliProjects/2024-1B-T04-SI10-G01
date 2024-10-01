@@ -24,7 +24,7 @@ ANÁLISE COMPORTAMENTAL DE USUÁRIO EM INTERFACES DIGITAIS: Aumentar a taxa de c
 Os artefatos entregue em cada sprint:
 
 **Sumário:**
-[Sprints](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/edit/main/documents/README.md)
+[Sprints](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/tree/main/documents)
 
 * **Análise da simulação de Monte Carlo**
 - Arquivo `.md` referente à entrega: [Análise Exploratória](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/src/Ana%CC%81liseExplorato%CC%81ria.ipynb).
