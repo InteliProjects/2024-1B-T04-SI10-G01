@@ -24,28 +24,28 @@ ANÁLISE COMPORTAMENTAL DE USUÁRIO EM INTERFACES DIGITAIS: Aumentar a taxa de c
 Os artefatos entregue em cada sprint:
 
 **Sumário:**
-[Sprints](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/edit/dev/documents/README.md)
+[Sprints](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/edit/main/documents/README.md)
 
 * **Análise da simulação de Monte Carlo**
-- Arquivo `.md` referente à entrega: [Análise Exploratória](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/src/Ana%CC%81liseExplorato%CC%81ria.ipynb).
-- Arquivo `.md` referente à entrega: [Simulação](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/tree/dev/src).
+- Arquivo `.md` referente à entrega: [Análise Exploratória](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/src/Ana%CC%81liseExplorato%CC%81ria.ipynb).
+- Arquivo `.md` referente à entrega: [Simulação](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/tree/main/src).
 
 * **Documentos de Negócios**
-- Arquivo `.md` referente à entrega: [Canva Proposta de Valor](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint2/CanvasPropostaValor.md).
-- Arquivo `.md` referente à entrega: [Análise Preliminar](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint1/AnalisePreliminar.md).
-- Arquivo `.md` referente à entrega: [Matriz de riscos e Análise Pestel](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint1/MatrizDeRisco_AnalisePestel.md).
-- Arquivo `.md` referente à entrega: [Análise financeira e Plano de Comunicação](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/tree/dev/documents/sprint3).
+- Arquivo `.md` referente à entrega: [Canva Proposta de Valor](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/documents/sprint2/CanvasPropostaValor.md).
+- Arquivo `.md` referente à entrega: [Análise Preliminar](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/documents/sprint1/AnalisePreliminar.md).
+- Arquivo `.md` referente à entrega: [Matriz de riscos e Análise Pestel](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/documents/sprint1/MatrizDeRisco_AnalisePestel.md).
+- Arquivo `.md` referente à entrega: [Análise financeira e Plano de Comunicação](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/tree/main/documents/sprint3).
 
 * **Documentos de UX**
-- Arquivo `.md` referente à entrega: [Personas e Jornada do Usuário](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint1/BlueprintDeServico.md).
-- Arquivo `.md` referente à entrega: [Blueprint de Serviço](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint1/BlueprintDeServico.md).
+- Arquivo `.md` referente à entrega: [Personas e Jornada do Usuário](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/documents/sprint1/BlueprintDeServico.md).
+- Arquivo `.md` referente à entrega: [Blueprint de Serviço](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/documents/sprint1/BlueprintDeServico.md).
 
 * **Resultado e Análise do Teste A/B**
-- Arquivo `.pdf` referente à entrega: [Plano de coleta de dados](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint4/Plano%20de%20Coleta.md).
-- Arquivo `.pdf` referente à entrega: [Relatório de Implementação do Teste A/B](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint4/Relat%C3%B3rio%20de%20Implementa%C3%A7%C3%A3o.pdf).
-- Arquivo `.md` referente à entrega: [Análise Preliminar](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint4/An%C3%A1lise%20Preliminar.pdf).
-- Arquivo `.md` referente à entrega: [Análise Final dos Resultados do Teste A/B](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint5/AnaliseFinal.md).
-- Arquivo `.md` referente à entrega: [Conclusões e Recomendações de Negócio](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint5/ConclusoesERecomendacoes.md).
+- Arquivo `.pdf` referente à entrega: [Plano de coleta de dados](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/documents/sprint4/Plano%20de%20Coleta.md).
+- Arquivo `.pdf` referente à entrega: [Relatório de Implementação do Teste A/B](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/documents/sprint4/Relat%C3%B3rio%20de%20Implementa%C3%A7%C3%A3o.pdf).
+- Arquivo `.md` referente à entrega: [Análise Preliminar](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/documents/sprint4/An%C3%A1lise%20Preliminar.pdf).
+- Arquivo `.md` referente à entrega: [Análise Final dos Resultados do Teste A/B](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/documents/sprint5/AnaliseFinal.md).
+- Arquivo `.md` referente à entrega: [Conclusões e Recomendações de Negócio](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/documents/sprint5/ConclusoesERecomendacoes.md).
 
 
 ## Recursos
