@@ -10,8 +10,8 @@
 
 Já o feedback é a resposta que o sistema fornece ao usuário após uma ação. Tal aspecto é fundamental para manter o usuário no sistema, garantir visibilidade e prevenir possíveis erros. Os tópicos são justificáveis pelos seguintes argumentos: 
 
-- De acordo com a primeira heurística de Nielsen, os usuários devem sempre saber o que está acontecendo com o sistema.
-- O sistema deve evitar erros sempre que possível. Isso inclui validações, confirmações e feedback claro em caso de problema.
+- De acordo com a primeira heurística de Nielsen, os usuários mainem sempre saber o que está acontecendo com o sistema.
+- O sistema maine evitar erros sempre que possível. Isso inclui validações, confirmações e feedback claro em caso de problema.
 
 ### Análise da página A
 
@@ -20,7 +20,7 @@ Já o feedback é a resposta que o sistema fornece ao usuário após uma ação
 2. **Expectativa de Acompanhamento**:
     - A frase “Em breve, entraremos em contato com você!” estabelece expectativas sobre o próximo passo, mas não indica quando esse acompanhamento será feito.
 
-<img src="https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Feedback-LP-A.png" alt="Feedback após envio de formulário" width="500"/>
+<img src="https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Feedback-LP-A.png" alt="Feedback após envio de formulário" width="500"/>
 Imagem 1: Feedback A após envio de formulário <br>
 Fonte: Wizard On LP (2024)
 ### Proposta da página B
@@ -34,7 +34,7 @@ Fonte: Wizard On LP (2024)
 3. **Chamada para Ação (CTA)**:
     - O botão “Saiba Mais” é uma CTA clara e específica, contribuindo para que o usuário explore informações sobre o curso.
 
-<img src="https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Feedback-LP-B.png" alt="Feedback B após envio de formulário" width="500"/>
+<img src="https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Feedback-LP-B.png" alt="Feedback B após envio de formulário" width="500"/>
 Imagem 2: Feedback B após envio de formulário <br>
 Fonte: Wizard On LP (2024)
 
@@ -47,11 +47,11 @@ O botão atual do WhatsApp ocupa um espaço considerável em diversas telas, esp
 1. **Dificuldade de rolagem:** O botão grande pode obstruir parte do conteúdo da página, exigindo que o usuário role a tela para visualizar todas as informações ou podendo clicar de forma errada involuntariamente. Isso pode levar alguns casos à frustração.
 2. **Rastreamento de leads:** A presença do CTA "Clique Aqui e Fale Conosco" pode influenciar o comportamento do usuário, levando-o a clicar no botão antes de interagir com outras partes do site. Isso pode dificultar o rastreamento preciso do interesse do lead e a identificação de pontos de conversão mais eficazes.
 
-<img src="https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/WhatsApp-LP-A.png" alt="Botão do WhatsApp" width="400"/>
+<img src="https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/WhatsApp-LP-A.png" alt="Botão do WhatsApp" width="400"/>
 Imagem 3: Botão do WhatsApp <br>
 Fonte: Wizard On LP (2024)
 
-A zona do polegar é uma área importante a ser considerada no design de interfaces para dispositivos móveis. Ela se refere à parte da tela que é facilmente acessível pelo polegar do usuário enquanto segura o dispositivo com uma mão. Quando realiza-se a testagem do LP atual, o usuário possui dificuldade de acessar outras funcionalidades da página, devido ao tamanho do botão que direciona ao WhatsApp, o polegar esbarra e ativa a função.
+A zona do polegar é uma área importante a ser considerada no design de interfaces para dispositivos móveis. Ela se refere à parte da tela que é facilmente acessível pelo polegar do usuário enquanto segura o dispositivo com uma mão. Quando realiza-se a testagem do LP atual, o usuário possui dificuldade de acessar outras funcionalidades da página, mainido ao tamanho do botão que direciona ao WhatsApp, o polegar esbarra e ativa a função.
 
 ### Proposta da página B
 
@@ -66,14 +66,14 @@ Informações Sobre a Promoção:
 - Promoção Atual: Matriculou, Ganhou - 3 meses de acesso a uma plataforma de streaming para curtir com sua mãe.
 - Problema: Muitas informações sobre a promoção com o formulário podem sobrecarregar a leitura e desviar a atenção do usuário.
   
-<img src="https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/A%20-%20Promo%C3%A7%C3%A3o.png" alt="Promoção do Wizard On" width="500"/>
+<img src="https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/A%20-%20Promo%C3%A7%C3%A3o.png" alt="Promoção do Wizard On" width="500"/>
 Imagem 4: Promoção do Wizard On <br>
 Fonte: Wizard On LP (2024)
 
 Informações Sobre o Formulário:
 - Formulário Atual: Simples, com campos para nome, e-mail e telefone.
 
-<img src="https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/A%20-%20Formul%C3%A1rio.png" alt="Conteúdo do Formulário" width="500"/>
+<img src="https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/A%20-%20Formul%C3%A1rio.png" alt="Conteúdo do Formulário" width="500"/>
 Imagem 5: Conteúdo do Formulário<br>
 Fonte: Wizard On LP (2024)
 
@@ -84,7 +84,7 @@ Informações Sobre os Diferenciais:
 - Elementos Listados: Aulas online e ao vivo, material didático físico, conversation club, sala de aula virtual, professores dedicados, avaliações internacionais sem custo.
 - Problema: Os diferenciais são apresentados em uma lista que não destaca de maneira efetiva os benefícios exclusivos do curso.
 
-<img src="https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/A%20-%20Diferenciais.png" alt="Diferenciais do Wizard On" width="500"/>
+<img src="https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/A%20-%20Diferenciais.png" alt="Diferenciais do Wizard On" width="500"/>
 Imagem 6: Diferenciais do Wizard On<br>
 Fonte: Wizard On LP (2024)
 
@@ -93,13 +93,13 @@ Fonte: Wizard On LP (2024)
 #### Promoção e Formulário de Interesse
 Nova Apresentação: A promoção foi movida para um banner no topo da página, mantendo o destaque mas simplificando a leitura do restante do conteúdo.
 
-<img src="https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/B%20-%20Promo%C3%A7%C3%A3o.png" alt="Botão do WhatsApp" width="500"/>
+<img src="https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/B%20-%20Promo%C3%A7%C3%A3o.png" alt="Botão do WhatsApp" width="500"/>
 Imagem 7: Proposta B - Promoção do Wizard On <br>
 Fonte: Wizard On LP (2024)
 
 Novo Formulário: Adiciona os diferenciais ao lado dos campos do formulário, incentivando o usuário a enviar seus dados ao visualizar os benefícios claros do curso.
 
-<img src="https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/B%20-%20Formul%C3%A1rio.png" alt="Conteúdo do Formulário" width="500"/>
+<img src="https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/B%20-%20Formul%C3%A1rio.png" alt="Conteúdo do Formulário" width="500"/>
 Imagem 8: Proposta B - Conteúdo do Formulário<br>
 Fonte: Wizard On LP (2024)
 
@@ -107,7 +107,7 @@ Fonte: Wizard On LP (2024)
 
 Nova Apresentação Visual: Diferenciais apresentados em caixas com fundo colorido (vermelho), chamando mais atenção e facilitando a leitura. Além disso, na descrição é destacado como esse diferencial impacta no processo de aprendizado (em negrito).
   
-<img src="https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/B%20-%20Diferenciais.png" alt="Diferenciais do Wizard On" width="500"/>
+<img src="https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/B%20-%20Diferenciais.png" alt="Diferenciais do Wizard On" width="500"/>
 Imagem 9: Proposta B - Diferenciais do Wizard On<br>
 Fonte: Wizard On LP (2024)
 
