@@ -2,14 +2,14 @@
 ## Mapeamento dos Riscos
 A matriz de riscos é uma ferramenta que proporciona uma análise ampla das ameaças e oportunidades do projeto. Com ela podemos definir quais são as ameaças com maiores probabilidades e impactos no nosso projeto, além das oportunidades que são vigentes dentro do desenvolvimento. Sua principal função é auxiliar a empresa a tomar decisões baseadas nos impactos e na probabilidade desses riscos acontecerem.
 
-![Matriz](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/Matriz.png) 
+![Matriz](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/Matriz.png) 
 **Figura 1**. Matriz de Risco. Fonte: Arquivo Pessoal. 
 <br>
 <br>
 ## Plano de Ação
 A estratégia de mitigação de riscos com descrição e responsabilidades é um componente fundamental do projeto. Este plano detalha ações específicas para identificar, avaliar e reduzir riscos críticos. Cada risco é analisado com consequências e probabilidade de ocorrência, enquanto os responsáveis garantem a execução eficaz das ações de mitigação. Este plano fortalece nossa capacidade de tomar decisões informadas e assegura o sucesso do projeto, controlando eventos imprevistos.
 
-![AmeaçasOportunidades](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/assets/imagens/AmeacasOportunidades.png) <br>
+![AmeaçasOportunidades](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/main/assets/imagens/AmeacasOportunidades.png) <br>
 **Figura 2**. Plano de Ação. Fonte: Arquivo Pessoal. 
 
 
