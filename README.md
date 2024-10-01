@@ -24,28 +24,28 @@ ANÁLISE COMPORTAMENTAL DE USUÁRIO EM INTERFACES DIGITAIS: Aumentar a taxa de c
 Os artefatos entregue em cada sprint:
 
 **Sumário:**
-[Sprints](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/edit/dev/documents/README.md)
+[Sprints](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/edit/dev/documents/README.md)
 
 * **Análise da simulação de Monte Carlo**
-- Arquivo `.md` referente à entrega: [Análise Exploratória](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/src/Ana%CC%81liseExplorato%CC%81ria.ipynb).
-- Arquivo `.md` referente à entrega: [Simulação](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/tree/dev/src).
+- Arquivo `.md` referente à entrega: [Análise Exploratória](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/src/Ana%CC%81liseExplorato%CC%81ria.ipynb).
+- Arquivo `.md` referente à entrega: [Simulação](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/tree/dev/src).
 
 * **Documentos de Negócios**
-- Arquivo `.md` referente à entrega: [Canva Proposta de Valor](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/documents/sprint2/CanvasPropostaValor.md).
-- Arquivo `.md` referente à entrega: [Análise Preliminar](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/documents/sprint1/AnalisePreliminar.md).
-- Arquivo `.md` referente à entrega: [Matriz de riscos e Análise Pestel](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/documents/sprint1/MatrizDeRisco_AnalisePestel.md).
-- Arquivo `.md` referente à entrega: [Análise financeira e Plano de Comunicação](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/tree/dev/documents/sprint3).
+- Arquivo `.md` referente à entrega: [Canva Proposta de Valor](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint2/CanvasPropostaValor.md).
+- Arquivo `.md` referente à entrega: [Análise Preliminar](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint1/AnalisePreliminar.md).
+- Arquivo `.md` referente à entrega: [Matriz de riscos e Análise Pestel](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint1/MatrizDeRisco_AnalisePestel.md).
+- Arquivo `.md` referente à entrega: [Análise financeira e Plano de Comunicação](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/tree/dev/documents/sprint3).
 
 * **Documentos de UX**
-- Arquivo `.md` referente à entrega: [Personas e Jornada do Usuário](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/documents/sprint1/BlueprintDeServico.md).
-- Arquivo `.md` referente à entrega: [Blueprint de Serviço](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/documents/sprint1/BlueprintDeServico.md).
+- Arquivo `.md` referente à entrega: [Personas e Jornada do Usuário](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint1/BlueprintDeServico.md).
+- Arquivo `.md` referente à entrega: [Blueprint de Serviço](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint1/BlueprintDeServico.md).
 
 * **Resultado e Análise do Teste A/B**
-- Arquivo `.pdf` referente à entrega: [Plano de coleta de dados](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/documents/sprint4/Plano%20de%20Coleta.md).
-- Arquivo `.pdf` referente à entrega: [Relatório de Implementação do Teste A/B](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/documents/sprint4/Relat%C3%B3rio%20de%20Implementa%C3%A7%C3%A3o.pdf).
-- Arquivo `.md` referente à entrega: [Análise Preliminar](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/documents/sprint4/An%C3%A1lise%20Preliminar.pdf).
-- Arquivo `.md` referente à entrega: [Análise Final dos Resultados do Teste A/B](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/documents/sprint5/AnaliseFinal.md).
-- Arquivo `.md` referente à entrega: [Conclusões e Recomendações de Negócio](https://github.com/Inteli-College/2024-1B-T04-SI10-G01/blob/dev/documents/sprint5/ConclusoesERecomendacoes.md).
+- Arquivo `.pdf` referente à entrega: [Plano de coleta de dados](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint4/Plano%20de%20Coleta.md).
+- Arquivo `.pdf` referente à entrega: [Relatório de Implementação do Teste A/B](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint4/Relat%C3%B3rio%20de%20Implementa%C3%A7%C3%A3o.pdf).
+- Arquivo `.md` referente à entrega: [Análise Preliminar](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint4/An%C3%A1lise%20Preliminar.pdf).
+- Arquivo `.md` referente à entrega: [Análise Final dos Resultados do Teste A/B](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint5/AnaliseFinal.md).
+- Arquivo `.md` referente à entrega: [Conclusões e Recomendações de Negócio](https://github.com/InteliProjects/2024-1B-T04-SI10-G01/blob/dev/documents/sprint5/ConclusoesERecomendacoes.md).
 
 
 ## Recursos
@@ -89,9 +89,9 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 📋 Licença/License
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Inteli-College/2024-1B-T04-SI10-G01">ANÁLISE COMPORTAMENTAL DE USUÁRIO EM INTERFACES DIGITAIS</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/InteliProjects">Inteli</a>, 
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/InteliProjects/2024-1B-T04-SI10-G01">ANÁLISE COMPORTAMENTAL DE USUÁRIO EM INTERFACES DIGITAIS</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/InteliProjects">Inteli</a>, 
 
-<a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Inteli-College/2024-1B-T04-SI10-G01">Filhos da Pêra</a>: 
+<a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/InteliProjects/2024-1B-T04-SI10-G01">Filhos da Pêra</a>: 
 <a href="https://www.linkedin.com/in/kathlyndiwan/">Kathlyn Diwan</a>,
 <a href="https://www.linkedin.com/in/lucas-vieira-376665208/">Lucas Vieira</a>,
 <a href="https://www.linkedin.com/in/raduanmuarrek/">Raduan Muarrek</a>,
